@@ -49,7 +49,7 @@ precisa ser sua**: o seu jeito de negativar, o seu critério de pausar, o seu ni
 2. **[docs/00-manual-de-conexao.md](docs/00-manual-de-conexao.md)** — o passo a passo completo, do
    zero, com o catálogo de erros. É para onde o COMECE-AQUI aponta quando você travar.
 3. `docs/` — o que a API permite, GAQL, e a estratégia (anúncio, campanha, negativação).
-4. `CLAUDE.md` — não é para você: é o que o seu agente lê.
+4. `AGENTS.md` — não é para você: é o que o seu agente lê.
 
 ## O que tem aqui dentro
 
@@ -67,7 +67,7 @@ scripts/
   delete.py             remover palavra, negativa, anúncio, campanha
   keyword_planner.py    volume de busca, CPC e concorrência
   create_skag.py        monta uma campanha inteira, uma palavra por grupo
-CLAUDE.md / AGENTS.md   o manual do seu agente de IA
+AGENTS.md / CLAUDE.md   o manual do seu agente de IA
 docs/                   o porquê, o GAQL e a estratégia
 ```
 
@@ -88,7 +88,7 @@ automação de Google Ads e tem uma seção só para ele:
 
 ## Se algo der errado
 
-O `CLAUDE.md` tem uma tabela de *"o que o erro diz × o que ele significa"* — nesta API, quase todo
+O `AGENTS.md` tem uma tabela de *"o que o erro diz × o que ele significa"* — nesta API, quase todo
 erro aponta para o lugar errado. Peça ao agente:
 
 > *"deu esse erro aqui, o que é de verdade?"*

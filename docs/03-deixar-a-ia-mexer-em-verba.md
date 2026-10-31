@@ -14,7 +14,7 @@ A pergunta é **o que você delega e o que continua sendo seu** — e essa front
 | A IA ativa uma campanha sozinha | **pela fatura** | o orçamento diário inteiro, vezes os dias até alguém olhar |
 | A IA negativa demais | o volume some | uma semana de tráfego bom, e ninguém liga uma coisa à outra |
 
-As duas últimas linhas são a razão de existirem as travas do `CLAUDE.md`. Não é desconfiança do
+As duas últimas linhas são a razão de existirem as travas do `AGENTS.md`. Não é desconfiança do
 modelo: é que o **feedback demora**. Erro que aparece na hora se conserta; erro que aparece na
 fatura já custou.
 
@@ -82,5 +82,5 @@ desconfiança: é como você descobre o que ele entende do **seu** negócio e o 
 — o cliente que não vale a pena, o termo que parece ruim e converte, a época em que tudo cai e não
 é problema.
 
-Esse contexto não está na API. Ele entra escrevendo, aqui nos `docs/` e no `CLAUDE.md` desta pasta.
+Esse contexto não está na API. Ele entra escrevendo, aqui nos `docs/` e no `AGENTS.md` desta pasta.
 **Pasta que ensina o negócio ao agente vale mais do que qualquer script.**
